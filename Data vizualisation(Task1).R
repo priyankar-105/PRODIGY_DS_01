@@ -1,3 +1,4 @@
+#Prodigy InfoTech Task 1
 install.packages("ggplot2")
 library(ggplot2)
 data<-read.csv("C:/Users/priya/Downloads/population data.csv")#load data
